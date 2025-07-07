@@ -21,7 +21,7 @@ The aim is to build AI models that can accurately predict astronaut movement eff
 
 ---
 
-## 📂 Descriptions
+##  Descriptions
 
 ### 1.   
   - Predicts astronaut mobility efficiency trends using an autoregressive model based on mission days.  
